@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrTerenceWebAPI", "MrTerenceWebAPI\MrTerenceWebAPI.csproj", "{79134689-1B0C-4A4D-BD88-E4A2359FDCDC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MrTerence.DAL", "MrTerence.DAL\MrTerence.DAL.csproj", "{798B404F-3CC3-4A0D-809F-8AA2D8E3DD3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79134689-1B0C-4A4D-BD88-E4A2359FDCDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79134689-1B0C-4A4D-BD88-E4A2359FDCDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79134689-1B0C-4A4D-BD88-E4A2359FDCDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79134689-1B0C-4A4D-BD88-E4A2359FDCDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798B404F-3CC3-4A0D-809F-8AA2D8E3DD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798B404F-3CC3-4A0D-809F-8AA2D8E3DD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798B404F-3CC3-4A0D-809F-8AA2D8E3DD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798B404F-3CC3-4A0D-809F-8AA2D8E3DD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C88AB4C3-7D60-4DD5-9D5C-9188A0A63044}
+	EndGlobalSection
+EndGlobal
